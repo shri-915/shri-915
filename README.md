@@ -212,7 +212,7 @@ const shrimun = {
 <td width="50%" valign="top">
 
 ### 🤖 Consent-Aware AI Dashboard
-<a href="https://github.com/shri-915/ai-dashboard">
+<a href="https://github.com/shri-915/consent-aware-ai-dashboard">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shri-915&repo=ai-dashboard&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00FF41&icon_color=FFB700&text_color=39D353&border_color=00FF41" alt="AI Dashboard"/>
 </a>
 
