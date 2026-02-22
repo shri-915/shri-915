@@ -164,39 +164,20 @@ const shrimun = {
 
 <br/>
 
-## 🏆 `FEATURED_PROJECTS.json`
+## 🏆 `FEATURED_PROJECTS.dat`
 
 <div align="center">
 
-```json
-{
-  "projects": [
-    {
-      "id": "01",
-      "name": "Phish-Guard",
-      "status": "ACTIVE 🔴",
-      "type": "AI Security System"
-    },
-    {
-      "id": "02",
-      "name": "Consent-Aware AI Dashboard",
-      "status": "DEPLOYED ✅",
-      "type": "Privacy AI Platform"
-    }
-  ]
-}
-```
-
-<br/>
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🛡️ Phish-Guard
 <a href="https://github.com/shri-915/phish-guard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shri-915&repo=phish-guard&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00FF41&icon_color=FFB700&text_color=39D353&border_color=00FF41" alt="Phish-Guard"/>
+  <img src="https://opengraph.githubassets.com/1/shri-915/phish-guard" width="100%" alt="Phish-Guard"/>
 </a>
+<br/>
+<br/>
 
 **🎯 Impact**: AI-powered phishing & network attack detection system
 
@@ -204,17 +185,20 @@ const shrimun = {
 - 🔴 Real-time network threat detection
 - 🔴 ML-based phishing URL classifier
 - 🔴 CICIDS2017 dataset trained models
-- 🔴 Interactive security dashboard (GitHub Pages)
+- 🔴 Interactive security dashboard
+<br/>
 
-**🛠️ Tech**: `Python` • `scikit-learn` • `XGBoost` • `React` • `GitHub Pages`
+**🛠️ Tech**: `Python` • `scikit-learn` • `XGBoost` • `React`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🤖 Consent-Aware AI Dashboard
 <a href="https://github.com/shri-915/consent-aware-ai-dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shri-915&repo=ai-dashboard&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00FF41&icon_color=FFB700&text_color=39D353&border_color=00FF41" alt="AI Dashboard"/>
+  <img src="https://opengraph.githubassets.com/1/shri-915/consent-aware-ai-dashboard" width="100%" alt="AI Dashboard"/>
 </a>
+<br/>
+<br/>
 
 **🎯 Impact**: Privacy-first AI platform with ethical consent management
 
@@ -223,6 +207,7 @@ const shrimun = {
 - 🟢 Granular data control
 - 🟢 AI output filtering
 - 🟢 Privacy analytics dashboard
+<br/>
 
 **🛠️ Tech**: `React` • `Node.js` • `MongoDB` • `Express`
 
@@ -239,14 +224,6 @@ const shrimun = {
 <br/>
 
 ## 📊 `GITHUB_ANALYTICS.log`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shri-915&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00FF41&icon_color=FFB700&text_color=39D353&ring_color=00FF41&count_private=true&include_all_commits=true"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri-915&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00FF41&text_color=39D353&langs_count=8"/>
-
-</div>
 
 <div align="center">
 
@@ -282,7 +259,7 @@ const shrimun = {
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="120" alt="AI Animation"/>
 
-### � AI & Security
+### 👨🏻‍💻 AI & Security
 
 <img src="https://img.shields.io/badge/Deep_Learning-000000?style=for-the-badge&labelColor=000000&color=00FF41" alt="Deep Learning"/>
 <img src="https://img.shields.io/badge/Neural_Networks-000000?style=for-the-badge&labelColor=000000&color=00AA2A" alt="Neural Networks"/>
