@@ -235,13 +235,19 @@ const shrimun = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shri-915&custom_title=CONTRIBUTION+GRAPH&bg_color=0A0A0A&color=00FF41&line=FFB700&point=00FF41&area_color=003B00&area=true&hide_border=true"/>
 
-</div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shri-915&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
+**▌ SKILL_ICONS.sys ▐**
+
+<img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,express,nextjs,html,css&theme=dark&perline=9" alt="Skills Row 1"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch,flask,docker,kubernetes,aws,git,github&theme=dark&perline=9" alt="Skills Row 2"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql,linux,vscode,vercel,githubactions,figma&theme=dark&perline=9" alt="Skills Row 3"/>
 
 </div>
+
 
 <br/>
 
